@@ -1,0 +1,5 @@
+com\example\JPAExample\repository\UserRepository.class
+com\example\JPAExample\service\UserService.class
+com\example\JPAExample\entity\User.class
+com\example\JPAExample\controller\UserController.class
+com\example\JPAExample\JpaExampleApplication.class
